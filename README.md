@@ -10,7 +10,7 @@ For WebStorm/PhpStorm you can import code style to your IDE:
 - Click `Set from...` and select `Google JavaScript Style Guide`
 
 ### VueJs
-Please, import our code style from ([store/PHPStorm-VueJs-CodeStyle](./store/PHPStorm-VueJs-CodeStyle)):
+Please, import our code style from ([store/PHPStorm-VueJs-CodeStyle](./store/PHPStorm-VueJs-CodeStyle.xml)):
 - Go to `Settings` -> `Editor` -> `Code Style`
 - Click `Three vertical dots after Scheme: ...` and select `Import scheme`
 - After import you will have new scheme `Gloss-vuejs-codestyle` - select it
