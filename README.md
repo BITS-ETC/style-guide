@@ -1,4 +1,4 @@
-# Glossbel Style Guide
+# Style Guide
 
 - [HTTP Methods, Headers, and Statuses](./REST.md)
 
