@@ -1,4 +1,4 @@
-# Style Guide
+# XPTeam Javscript/Vue.js Style Guide
 
 - [HTTP Methods, Headers, and Statuses](./REST.md)
 
@@ -9,7 +9,7 @@ For WebStorm/PhpStorm you can import code style to your IDE:
 - Go to `Settings` -> `Editor` -> `Code Style` -> `Javascript`
 - Click `Set from...` and select `Google JavaScript Style Guide`
 
-### VueJs
+### Vue.js
 Please, import our code style from ([store/PHPStorm-VueJs-CodeStyle](./store/PHPStorm-VueJs-CodeStyle.xml)):
 - Go to `Settings` -> `Editor` -> `Code Style`
 - Click `Three vertical dots after Scheme: ...` and select `Import scheme`
